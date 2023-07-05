@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ER Model - Law Firm" id="BC369BBE-C0F4-3094-2DBE-7C2E5D8F317F" version="3.5">
+<createdBy>Wesley Pegoraro</createdBy>
+<createdTime>2023-05-24 14:40:45 UTC</createdTime>
+<ownerDesignName>ER Model - Law Firm</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BC369BBE-C0F4-3094-2DBE-7C2E5D8F317F</designId>
+</OSDM_Design>
